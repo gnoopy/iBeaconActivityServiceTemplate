@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pilot Store</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="notibar_msg">Scanning Coupon drum...</string>
+    <string name="notibar_title">Coupon Box</string>
+    <string name="local_service_connected">Activity and Service connected for messaging</string>
+    <string name="local_service_disconnected">Messaging disconnected between Activity and Service</string>
+</resources>
